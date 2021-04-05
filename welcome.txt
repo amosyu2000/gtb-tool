@@ -1,6 +1,6 @@
 gtb-tool
 
-Type `//h <hint>` in Lunar Client to see matching terms
+Type `//h <hint>` to see matching terms
 	ex. `//h _O_ ___`
 
-Type '//exit' in Lunar Client to close the tool
+Type '//exit' to close the tool
