@@ -1,5 +1,6 @@
-# 'Guess The Build' Tool
+# gtb-tool
 Make sure you have [AutoHotkey](https://www.autohotkey.com/download/) installed.
+Only supports [Lunar Client](https://www.lunarclient.com/download/).
 
 1. Download repository
 2. `pipenv install`
