@@ -1,6 +1,5 @@
 gtb-tool
 
-Type `//h <hint>` to see matching terms
-	ex. `//h _O_ ___`
-
-Type '//exit' to close the tool
+//<hint>    see matching terms
+//<number>  auto type word
+//e         exit the tool
