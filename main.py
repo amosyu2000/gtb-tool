@@ -39,8 +39,9 @@ def search_word_list(argument):
 	if len(matching_words) == 0:
 		print('<no matches>')
 	else:
+		num_width = len(str(len(matching_words)))
 		for i in range(len(matching_words)):
-			print('(%s) %s' % (i+1, matching_words[i]))
+			print(f"({i+1:0>{num_width}}) {matching_words[i]}")
 
 # script for receiving user inputs
 with open('input.ahk') as file:
