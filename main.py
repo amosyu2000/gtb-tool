@@ -34,7 +34,7 @@ def search_word_list(argument):
 
 	# find words that match the hint
 	global matching_words
-	matching_words = [word.upper() for word in word_list if re.match(hint, word, flags=re.IGNORECASE)]
+	matching_words = [word for word in word_list if re.match(hint, word, flags=re.IGNORECASE)]
 	
 	if len(matching_words) == 0:
 		print('<no matches>')

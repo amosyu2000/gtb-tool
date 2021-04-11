@@ -90,14 +90,14 @@ Bath
 Bath Tub
 Bathroom
 Batman
-Battering ram
+Battering Ram
 Battery
-Battle axe
+Battle Axe
 Battleship
 Bay
 Beach
 Beach Ball
-Beach party
+Beach Party
 Bean
 Bean Bag
 Beanie
@@ -131,7 +131,7 @@ Binoculars
 Biology
 Bird
 Bird Nest
-Bird feeder
+Bird Feeder
 Birdbath
 Birdcage
 Birds
@@ -177,7 +177,7 @@ Bowling Pin
 Bowtie
 Box
 Box Of Chocolates
-Box of Chocolate
+Box Of Chocolate
 Boxing
 Boxing Gloves
 Boxing Ring
@@ -187,7 +187,7 @@ Brain
 Branch
 Bread
 Breakfast
-Breakfast in Bed
+Breakfast In Bed
 Brick
 Bridge
 Broccoli
@@ -196,7 +196,7 @@ Broom
 Broomstick
 Brush
 Bubble
-Bubble bath
+Bubble Bath
 Bubbles
 Bucket
 Buffet
@@ -241,7 +241,7 @@ Canada
 Canal
 Candle
 Candy
-Candy cane
+Candy Cane
 Cane
 Cannon
 Cannonball
@@ -255,7 +255,7 @@ Car Park
 Car Wash
 Caravan
 Card
-Card games
+Card Games
 Cardboard Box
 Cards
 Caribbean
@@ -269,7 +269,7 @@ Cart
 Cartoon
 Cartwheel
 Cash
-Cash register
+Cash Register
 Cashier
 Cassette
 Castle
@@ -328,15 +328,15 @@ Chocolate Factory
 Chocolate Milk
 Chopsticks
 Christmas
-Christmas card
-Christmas tree
-christmas cracker
+Christmas Card
+Christmas Tree
+christmas Cracker
 Christmas Lights
 Church
 Cinema
 Circle
 Circus
-City building
+City Building
 Clam
 Clap
 Class
@@ -364,7 +364,7 @@ Cocoon
 Coffee
 Coffee Cup
 Coffee Table
-Coffee machine
+Coffee Machine
 Coffin
 Cog
 Coin
@@ -373,9 +373,9 @@ Colored Pencil
 Comb
 Comedy
 Comet
-Comic book
+Comic Book
 Compass
-Compost bin
+Compost Bin
 Computer
 Computer Desk
 Computer Keyboard
@@ -383,9 +383,9 @@ Computer Mouse
 Computer Monitor
 Computer Screen
 Concert
-Console games
+Console Games
 Construction
-Construction yard
+Construction Yard
 Contestant
 Controller
 Conveyor Belt
@@ -431,7 +431,7 @@ Cube
 Cuckoo Clock
 Cucumber
 Cup
-Cup of Water
+Cup Of Water
 Cupboard
 Cupcake
 Curtain
@@ -449,12 +449,12 @@ Dagger
 Date
 Dance
 Dancefloor
-Dance competition
+Dance Competition
 Dancer
 Dancing
 Day
 Dead Tree
-Deck of Cards
+Deck Of Cards
 Decoration
 Decorations
 Deer
@@ -473,7 +473,7 @@ Dice
 Dictator
 Dimples
 Dinner
-Dinner table
+Dinner Table
 Dinosaur
 Dirt House
 Disappear
@@ -539,7 +539,7 @@ Eggplant
 Eggs
 Eggs Hatching
 Egypt
-Eiffel tower
+Eiffel Tower
 Elastic Band
 Elbow
 Electricity
@@ -616,7 +616,7 @@ First Aid
 Fish
 Fish Bowl
 Fish Tank
-Fish and Chips
+Fish And Chips
 Fisherman
 Fishing
 Fishing Rod
@@ -644,7 +644,7 @@ Folder
 Food
 Foot
 Football
-Football field
+Football Field
 Footprint
 Forehead
 Forest
@@ -710,7 +710,7 @@ Girl
 Glass
 Glass Door
 Glass Table
-Glass of Milk
+Glass Of Milk
 Glasses
 Globe
 Gloves
@@ -809,7 +809,7 @@ Hen
 Heptagon
 Hero
 Hexagon
-Hide and Seek
+Hide And Seek
 High Heels
 Highway
 Hill
@@ -857,7 +857,7 @@ Ice Cream Van
 Ice Cube
 Ice Skates
 Ice Spike
-Ice skating
+Ice Skating
 Iceberg
 Icicle
 Icy
@@ -940,11 +940,11 @@ Lawn Mower
 Lawyer
 Lead
 Leaf
-Leaking roof
+Leaking Roof
 Leather
 Leaves
 Leg
-Legend of Zelda
+Legend Of Zelda
 Lemon
 Lemonade
 Lemonade Stand
@@ -970,10 +970,10 @@ Lion
 Lips
 Lipstick
 Litter
-Living room
+Living Room
 Lizard
 Llama
-Loaf of Bread
+Loaf Of Bread
 Lobster
 Loch Ness Monster
 Lock
@@ -985,7 +985,7 @@ London
 Luggage
 Luigi
 Lumberjack
-lump of coal
+Lump Of Coal
 Lunch
 Lunchbox
 MP3 Player
@@ -1037,7 +1037,7 @@ Microwave
 Milk
 Milkshake
 Milky Way
-Milk and cookies
+Milk And Cookies
 Mine
 Minecart
 Minecraft
@@ -1048,7 +1048,7 @@ Mining
 Minion
 Mirror
 Missile
-mistletoe
+Mistletoe
 Mittens
 Moat
 Mobility Scooter
@@ -1092,7 +1092,7 @@ Mystery Box
 Nachos
 Naughty List
 Nail
-Nail polish
+Nail Polish
 Name Tag
 Napkin
 Nature
@@ -1108,7 +1108,7 @@ Nintendo
 Nose
 Nosebleed
 Notepad
-North pole
+North Pole
 Nurse
 Nutcracker
 Oar
@@ -1136,7 +1136,7 @@ Oven
 Owl
 Oxygen
 Oyster
-Pack of Cards
+Pack Of Cards
 Package
 Packet
 Pacman
@@ -1150,7 +1150,7 @@ Painter
 Painting
 Palace
 Palette
-Palm tree
+Palm Tree
 Pan
 Pancake
 Panda
@@ -1203,7 +1203,7 @@ Pie
 Pier
 Pig
 Pigeon
-Piggy bank
+Piggy Bank
 Pigman
 Pikachu
 Pillow
@@ -1227,7 +1227,7 @@ Pizza
 Planet
 Plank
 Plant
-Plant pot
+Plant Pot
 Plate
 Platform
 Platypus
@@ -1243,7 +1243,7 @@ Poison
 Pokeball
 Pokemon
 Polar Bear
-Pole vault
+Pole Vault
 Police
 Police Car
 Policecar
@@ -1254,7 +1254,7 @@ Pond
 Pong
 Pony
 Pool
-Pool table
+Pool Table
 Poor
 Popcorn
 Poppy
@@ -1264,7 +1264,7 @@ Post Office
 Postcard
 Poster
 Pot
-Pot of Gold
+Pot Of Gold
 Potato
 Potato Chips
 Potatoes
@@ -1338,7 +1338,7 @@ Robot
 Rock
 Rock Band
 Rock Climbing
-Rock and Roll
+Rock And Roll
 Rocket
 Rocket Launcher
 Rocket Ship
@@ -1349,7 +1349,7 @@ Roof
 Room
 Rope
 Rose
-Rose bush
+Rose Bush
 Roundabout
 Rowboat
 Rowing
@@ -1375,7 +1375,7 @@ Salamander
 Salmon
 Saloon
 Salt
-Salt and Pepper
+Salt And Pepper
 Samurai
 Sand Castle
 Sandbox
@@ -1384,7 +1384,7 @@ Sandwiches
 Santa
 Santa Workshop
 Santas Workshop
-santa claus
+Santa Claus
 Sardines
 Satellite
 Sauce
@@ -1463,7 +1463,7 @@ Skating
 Skating Rink
 Skeleton
 Ski
-Ski lodge
+Ski Lodge
 Skiing
 Skinny
 Skirt
@@ -1497,7 +1497,7 @@ Sneakers
 Sniper
 Snow
 Snowy Forest
-snowball fight
+Snowball Fight
 Snowball
 Snowboarding
 Snowflake
@@ -1604,7 +1604,7 @@ Supermarket
 Surfboard
 Surfing
 Surgery
-surprise
+Surprise
 Sushi
 Swamp
 Swan
@@ -1635,7 +1635,7 @@ Tattoo
 Tavern
 Taxi
 Tea
-Tea and Biscuits
+Tea And Biscuits
 Teacup
 Teapot
 Tears
@@ -1706,7 +1706,7 @@ Towel Rack
 Tower
 Tower of Pisa
 Toy
-toy factory
+Toy Factory
 Toy Soldier
 Toy Story
 Track
@@ -1742,7 +1742,7 @@ Truck
 Trumpet
 Tsunami
 Tub
-Tug of War
+Tug Of War
 Tuna
 Tunnel
 Turkey
@@ -1759,7 +1759,7 @@ Under The Sea
 Underwater
 Unicorn
 Unicycle
-Upside down
+Upside Down
 Vacuum
 Valentine
 Vampire
@@ -1842,7 +1842,7 @@ Wings
 Wink
 Winter
 Wire
-Wishing well
+Wishing Well
 Witch
 Witch House
 Wither
@@ -1854,7 +1854,7 @@ Workshop
 World
 Worm
 Wrecking Ball
-Wrapping paper
+Wrapping Paper
 Wrench
 Wrestling
 Writing
