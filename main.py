@@ -21,27 +21,36 @@ def sanitize_input(argument):
 
 def type_word_at_position(argument):
 	index = int(argument) - 1
-	word = matching_words[index]
-	ahk.key_press('t')
-	ahk.type(word.lower())
-	ahk.key_press('Enter')
+	if (index < len(matching_words)):
+		word = matching_words[index]
+		ahk.key_press('t')
+		ahk.type(word.lower())
+		ahk.key_press('Enter')
 
 def search_word_list(argument):
 	# convert input to regex
 	hint = '^' + argument.replace('_', '\\S').replace(' ', '\\s') + '$'
+	global matching_words
+	matching_words = []
 
 	clear_console()
 
-	# find words that match the hint
-	global matching_words
-	matching_words = [word for word in word_list if re.match(hint, word, flags=re.IGNORECASE)]
+	try:
+		# Verify that the regex is valid
+		re.compile(hint)
+
+		# find words that match the hint
+		matching_words = [word for word in word_list if re.match(hint, word, flags=re.IGNORECASE)]
+		
+		if len(matching_words) == 0:
+			print('<no matches>')
+		else:
+			num_width = len(str(len(matching_words)))
+			for i in range(len(matching_words)):
+				print(f"({i+1:0>{num_width}}) {matching_words[i]}")
 	
-	if len(matching_words) == 0:
-		print('<no matches>')
-	else:
-		num_width = len(str(len(matching_words)))
-		for i in range(len(matching_words)):
-			print(f"({i+1:0>{num_width}}) {matching_words[i]}")
+	except re.error:
+		print('<invalid regex>')
 
 # script for receiving user inputs
 with open('input.ahk') as file:
