@@ -4,3 +4,5 @@ Make sure you have [AutoHotkey](https://www.autohotkey.com/download/) installed.
 1. Download repository
 2. `pipenv install`
 3. `pipenv run python main.py` or double-click `gtb-tool.bat`
+
+Big thanks to [GTB-Solver](https://github.com/oycyc/GTB-Solver). 
